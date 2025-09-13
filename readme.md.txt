@@ -34,8 +34,7 @@ I'm just getting started with building my open-source portfolio—stay tuned for
 
 ---
 
-![My Banner](./images/nimbusgrown.png)
-
 <!--
 If you’d like to add a favorite quote, fun fact, or highlight specific skills/tools, just let me know!
+
 -->
