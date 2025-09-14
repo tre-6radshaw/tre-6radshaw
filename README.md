@@ -32,7 +32,6 @@ I'm just getting started with building my open-source portfolio—stay tuned for
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tre-b-624741155/)
 
----
 
 <!-- Other content above -->
 
