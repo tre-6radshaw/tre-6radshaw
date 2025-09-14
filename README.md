@@ -34,7 +34,13 @@ I'm just getting started with building my open-source portfolio—stay tuned for
 
 ---
 
-<!--
-If you’d like to add a favorite quote, fun fact, or highlight specific skills/tools, just let me know!
+<!-- Other content above -->
 
--->
+<hr/>
+
+<!-- Pokémon Icons Section -->
+<div align="center">
+  <img src="https://github.com/HybridShivam/Pokemon/blob/main/images/pokemon/066.png?raw=true" alt="Machop" width="48" height="48" />
+  <img src="https://github.com/HybridShivam/Pokemon/blob/main/images/pokemon/067.png?raw=true" alt="Machoke" width="48" height="48" />
+  <img src="https://github.com/HybridShivam/Pokemon/blob/main/images/pokemon/068.png?raw=true" alt="Machamp" width="48" height="48" />
+</div>
