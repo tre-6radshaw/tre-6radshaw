@@ -40,7 +40,7 @@ I'm just getting started with building my open-source portfolio—stay tuned for
 
 <!-- Pokémon Icons Section -->
 <div align="center">
-  <img src="https://github.com/HybridShivam/Pokemon/blob/main/images/pokemon/066.png?raw=true" alt="Machop" width="48" height="48" />
-  <img src="https://github.com/HybridShivam/Pokemon/blob/main/images/pokemon/067.png?raw=true" alt="Machoke" width="48" height="48" />
-  <img src="https://github.com/HybridShivam/Pokemon/blob/main/images/pokemon/068.png?raw=true" alt="Machamp" width="48" height="48" />
+  <img src="https://github.com/HybridShivam/Pokemon/blob/master/assets/imagesHQ/067.png?raw=true" alt="Machoke" width="88" height="88" />
+  <img src="https://github.com/HybridShivam/Pokemon/blob/master/assets/imagesHQ/068-Gmax.png?raw=true" alt="Machamp" width="88" height="88" />
+  <img src="https://github.com/HybridShivam/Pokemon/blob/master/assets/imagesHQ/068.png?raw=true" alt="Machamp" width="88" height="88" />
 </div>
