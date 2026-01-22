@@ -6,7 +6,6 @@
 
 🌐 **About Me**
 
-- Currently a **Cyber Risk Analyst** specializing in the Risk Management Framework (RMF) for Department of Defense systems.
 - Studying at **Western Governors University**; 3/4ths complete with a B.S. in **Cloud Computing**.
 - Passionate about technology, security, and automation.
 - Laboring towards **DevOps** or **Cloud Engineer**.
