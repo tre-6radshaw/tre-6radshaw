@@ -1,6 +1,6 @@
 # 🫡 Salute, I’m Tre Bradshaw
 
-**Cyber Risk Analyst | Aspiring DevOps & Cloud Engineer**
+**Aspiring DevOps & Cloud Engineer**
 
 ---
 
