@@ -6,7 +6,7 @@
 
 🌐 **About Me**
 
-- Studying at **Western Governors University**; 3/4ths complete with a B.S. in **Cloud Computing**.
+- Studying at **Western Governors University**; 84% complete with a B.S. in **Cloud Computing**.
 - Passionate about technology, security, and automation.
 - Laboring towards **DevOps** or **Cloud Engineer**.
 
