@@ -1,6 +1,6 @@
 # 🫡 Salute, I’m Tre Bradshaw
 
-**Aspiring DevOps & Cloud Engineer**
+**DevOps & Cloud Engineer**
 
 ---
 
