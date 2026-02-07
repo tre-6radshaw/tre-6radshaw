@@ -23,7 +23,7 @@
 
 📚 **My Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=py,github,git,gitlab,bash,windows,apple,powershell,kali,kubernetes,linux,vim,vscode,docker,gcp,aws,terraform,ubuntu,azure,mysql,jenkins,html,css&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,gitlab,bash,windows,apple,powershell,kali,kubernetes,linux,vim,vscode,docker,gcp,aws,terraform,ubuntu,azure,mysql,jenkins,html,css&perline=11)](https://skillicons.dev)
 
 
 ---
