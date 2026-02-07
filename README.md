@@ -21,9 +21,10 @@
 
 ---
 
-📚 **Coming Soon**
+📚 **My Skills**
 
-I'm just getting started with building my open-source portfolio—stay tuned for cloud, DevOps, and security projects!
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,gitlab,bash,windows,apple,powershell,kali,kubernetes,linux,vim,vscode,docker,gcp,aws,terraform,ubuntu,azure,mysql,jenkins,html,css&)](https://skillicons.dev)
+
 
 ---
 
